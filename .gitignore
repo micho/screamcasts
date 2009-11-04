@@ -1,0 +1,6 @@
+.empty
+log/*.log
+tmp/*
+public/stylesheets/*.css
+.DS_Store
+db/*.sqlite3
